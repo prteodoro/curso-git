@@ -1,0 +1,15 @@
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\bin\Debug\net6.0\projeto-teste.exe
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\bin\Debug\net6.0\projeto-teste.deps.json
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\bin\Debug\net6.0\projeto-teste.runtimeconfig.json
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\bin\Debug\net6.0\projeto-teste.dll
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\bin\Debug\net6.0\ref\projeto-teste.dll
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\bin\Debug\net6.0\projeto-teste.pdb
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.csproj.AssemblyReference.cache
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.AssemblyInfoInputs.cache
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.AssemblyInfo.cs
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.dll
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\ref\projeto-teste.dll
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.pdb
+C:\Users\CTCRED\Documents\CURSOS\TI\C# Projetos_Nelio_Alves\projeto-teste\projeto-teste\obj\Debug\net6.0\projeto-teste.genruntimeconfig.cache
